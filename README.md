@@ -44,4 +44,4 @@ garn
 
 
 
-> GitHub [@DanskeDevelopers](https://github.com/DanskeDevelopers)
+> GitHub [@DanskeDevelopers](https://discord.gg/x6Ep953Xsv)
