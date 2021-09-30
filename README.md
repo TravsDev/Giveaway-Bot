@@ -1,4 +1,4 @@
-# Et simpelt givaway script a Danske Developers
+# Et simpelt givaway script af Travs
 
 > En meget simpel discord giveaway bot lavet med discord.js
 
